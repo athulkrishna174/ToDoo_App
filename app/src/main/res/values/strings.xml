@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ToDoo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="to_doo_string">ToDoo</string>
+    <string name="type_your_to_doo_string">Type your ToDoo</string>
+    <string name="sign_up_string">SignUp</string>
+    <string name="sign_in_string">SignIn</string>
+    <string name="submit_button_string">Submit Button</string>
+    <string name="already_registered_string">Already Registered?</string>
+    <string name="not_registered_string">Not Registered Yet?</string>
+    <string name="input_email_hint">Type Your Email Address</string>
+    <string name="input_password_hint">Type Your Password</string>
+    <string name="input_retype_password_hint">Retype Your Password</string>
+    <string name="close_button_string">close button</string>
+    <string name="to_doo_1_string">ToDoo 1</string>
+
+</resources>
